@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ListaDinamica" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ListaDinamica" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ListaDinamica" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="listaCircular.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listaCircular.h" />
+		<Unit filename="listaDinamica.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listaDinamica.h" />
+		<Unit filename="listaDuplamenteDinamica.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listaDuplamenteDinamica.h" />
+		<Unit filename="listaHeterogenea.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listaHeterogenea.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

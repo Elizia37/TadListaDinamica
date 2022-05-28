@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1609272540 source:c:\users\elizia\desktop\codeblocks\listadinamica\listadinamica.c
+	"listaDinamica.h"
+	<stdlib.h>
+
+1609366084 c:\users\elizia\desktop\codeblocks\listadinamica\listadinamica.h
+	<stdio.h>
+	<stdlib.h>
+
+1610151761 source:c:\users\elizia\desktop\codeblocks\listadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"listaDinamica.h"
+	"listaDuplamenteDinamica.h"
+	"listaHeterogenea.h"
+	"listaCircular.h"
+
+1609444942 source:c:\users\elizia\desktop\codeblocks\listadinamica\listaduplamentedinamica.c
+	"listaDuplamenteDinamica.h"
+
+1609446762 c:\users\elizia\desktop\codeblocks\listadinamica\listaduplamentedinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1609539178 source:c:\users\elizia\desktop\codeblocks\listadinamica\listaheterogenea.c
+	"listaHeterogenea.h"
+
+1609539530 c:\users\elizia\desktop\codeblocks\listadinamica\listaheterogenea.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1610152435 source:c:\users\elizia\desktop\codeblocks\listadinamica\listacircular.c
+	"listaCircular.h"
+	<stdio.h>
+	<stdlib.h>
+
+1610060425 c:\users\elizia\desktop\codeblocks\listadinamica\listacircular.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1609272540 source:c:\users\eliziajanuariodasilv\desktop\github\listadinamica\listadinamica.c
+	"listaDinamica.h"
+	<stdlib.h>
+
+1609366084 c:\users\eliziajanuariodasilv\desktop\github\listadinamica\listadinamica.h
+	<stdio.h>
+	<stdlib.h>
+
+1609444942 source:c:\users\eliziajanuariodasilv\desktop\github\listadinamica\listaduplamentedinamica.c
+	"listaDuplamenteDinamica.h"
+
+1609446762 c:\users\eliziajanuariodasilv\desktop\github\listadinamica\listaduplamentedinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1609539178 source:c:\users\eliziajanuariodasilv\desktop\github\listadinamica\listaheterogenea.c
+	"listaHeterogenea.h"
+
+1609539530 c:\users\eliziajanuariodasilv\desktop\github\listadinamica\listaheterogenea.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1610151761 source:c:\users\eliziajanuariodasilv\desktop\github\listadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"listaDinamica.h"
+	"listaDuplamenteDinamica.h"
+	"listaHeterogenea.h"
+	"listaCircular.h"
+
+1610060425 c:\users\eliziajanuariodasilv\desktop\github\listadinamica\listacircular.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1653780598 source:c:\users\eliziajanuariodasilv\desktop\github\listadinamica\listacircular.c
+	"listaCircular.h"
+	<stdio.h>
+	<stdlib.h>
+
